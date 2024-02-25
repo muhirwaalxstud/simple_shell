@@ -1,10 +1,5 @@
 
-# SIMPLE SHELL ALx
-
-
-Curriculum
-SE Foundations Average: 24.6%
-0x16. C - Simple Shell
+# 0x16. C - Simple Shell
 CGroup projectSyscall
 
     By: Julien Barbier
